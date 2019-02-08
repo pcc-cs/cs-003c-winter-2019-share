@@ -1,3 +1,4 @@
+#
 # Build SWIG files.
 #
 # Copyright (c) 2019, Sekhar Ravinutala.
